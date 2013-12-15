@@ -1,0 +1,32 @@
+{
+  "name": "arg1",
+  "description": "Function wrapper that only passes 1st argument to function",
+  "homepage": "https://github.com/ogt/arg1",
+  "version": "0.0.0",
+  "repository": {
+    "type" : "git",
+    "url": "git://github.com/ogt/arg1.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "license" : "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.3.0"
+  },
+  "keywords": [
+    "wrapper",
+    "callback",
+    "arguments",
+    "utility",
+    "closure",
+    "function"
+  ],
+  "author": {
+    "name": "Odysseas Tsatalos",
+    "email": "odysseas@tsatalos.com",
+    "url": "http://tsatalos.gr"
+  },
+}
