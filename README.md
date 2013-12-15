@@ -1,4 +1,4 @@
-Function wrapper that only passes 1st argument to function
+Function wrapper that exposes 1 arg
 ==
 [![Build Status](https://travis-ci.org/ogt/arg1.png)](https://travis-ci.org/ogt/arg1)
 
